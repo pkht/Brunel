@@ -14,24 +14,28 @@
  * @package WordPress
  */
 
-// ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define('DB_NAME', 'www_brunelsinfonia_org_uk');
-      	
-/** MySQL database username */
-define('DB_USER', 'web');
+if( strstr( $_SERVER["HTTP_HOST"], "pkht" ) )
+{
+    define('DB_NAME', 'www_brunelsinfonia_org_uk');
+    define('DB_USER', 'root');
+    define('DB_PASSWORD', 'root');
+    define('DB_HOST', 'localhost:8889');
+}
+else
+{
+    // ** MySQL settings - You can get this info from your web host ** //
+    /** The name of the database for WordPress */
+    define('DB_NAME', 'www_brunelsinfonia_org_uk');
 
-/** MySQL database password */
-define('DB_PASSWORD', 'ysNdIDEM');
+    /** MySQL database username */
+    define('DB_USER', 'web');
 
-/** MySQL hostname */
-define('DB_HOST', '127.0.0.1');
+    /** MySQL database password */
+    define('DB_PASSWORD', 'ysNdIDEM');
 
-/** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8');
-
-/** The Database Collate type. Don't change this if in doubt. */
-define('DB_COLLATE', '');
+    /** MySQL hostname */
+    define('DB_HOST', '127.0.0.1');
+}
 
 /**#@+
  * Authentication Unique Keys.
