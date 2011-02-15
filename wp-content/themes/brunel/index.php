@@ -44,19 +44,7 @@
 	</div></td>
 	
     <td valign="top" bgcolor="#990000">
-	<div id="right_sidebar">
-	    <img src="http://www.brunelsinfonia.org.uk/wp-content/themes/brunel/images/side_image_6.jpg" alt="violin" />
-
-	    <div id="important_contact">
-		<p><span>Manager:</span><br />
-		Dave Sherwin<br />07796 541190<br />
-		<a href="mailto:dave.sherwin@burges-salmon.com" title="mailto:dave.sherwin@burges-salmon.com">Email</a></p>
-		<p><span>Box Office:</span><br />
-		Providence Music<br />0117 927 6536</p>
-	    </div>
-
-	    <div id="sponsor"><a href="http://www.burges-salmon.com" target="_blank"><img src="http://www.brunelsinfonia.org.uk/wp-content/themes/brunel/images/sponsor.jpg" alt="Sponsored by Burgess Salmon" /></a></div>
-	</div>
+	<? include get_theme_root() . '/brunel/right_sidebar.php'; ?>
     </td>
 	
   </tr>
