@@ -1,15 +1,15 @@
 <?php
-if( is_front_page() )
-{
-    session_start();
-    if( $_GET["splash"] == "1" )
-        $_SESSION["splash"] = true;
-    if( !$_SESSION["splash"] )
-    {
-        $_SESSION["splash"] = true;
-        header("Location:".get_bloginfo( "url" )."/splash.php");
-    }
-}
+//if( is_front_page() )
+//{
+//    session_start();
+//    if( $_GET["splash"] == "1" )
+//        $_SESSION["splash"] = true;
+//    if( !$_SESSION["splash"] )
+//    {
+//        $_SESSION["splash"] = true;
+//        header("Location:".get_bloginfo( "url" )."/splash.php");
+//    }
+//}
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
