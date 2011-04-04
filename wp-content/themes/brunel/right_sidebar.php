@@ -4,13 +4,14 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        2nd April, 2011.<br /><br />
-        <b>Holst</b><br />
-        The Planets<br /><br />
-        <b>Butterworth</b><br />
-        The Banks of Green Willow<br <br />
-        <b>Vaughan-Williams</b><br />
-        A Pastoral Symphony<br />
+        25th June, 2011.<br /><br />
+        <b>Rachmaninov</b><br />
+        Symphony No. 2<br /><br />
+        <b>Glinka</b><br />
+        Ruslan and Ludmilla<br <br />
+        <b>Sibelius</b><br />
+        Violin Concerto<br />
+        (Roger Huckle, violin)<br />
     </p>
 
 	<p><span>Box Office:</span><br /><br />
