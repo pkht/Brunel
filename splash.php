@@ -10,10 +10,10 @@
     </head>
     <body style="margin:0px;">
         <div align="center">
-            <img src="wp-content/uploads/posters/spring-2011-planets-splash.jpg" alt="Next Concert" border="0" usemap="#links" />
+            <img src="wp-content/themes/brunel/posters/summer-2011-rach-splash.jpg" alt="Next Concert" border="0" usemap="#links" />
             <map name="links">
-                <area shape="rect" coords="566,10,807,30" href="/" alt="Home" />
-                <area shape="rect" coords="646,35,811,55" onclick="_gaq.push(['_trackEvent', 'Posters', 'Download', 'Spring 2011 - The Planets']);" href="/wp-content/uploads/posters/spring-2011-planets.pdf" alt="Poster" />
+                <area shape="rect" coords="566,32,807,52" href="/?splash=1" alt="Home" />
+                <area shape="rect" coords="646,57,811,77" onclick="_gaq.push(['_trackEvent', 'Posters', 'Download', 'Summer 2011 - Rach 2']);" href="/wp-content/uploads/posters/summer-2011-rachmaninov.pdf" alt="Poster" />
             </map>
             <p>
                 <a href="/?splash=1">Enter brunelsinfonia.org.uk</a>
