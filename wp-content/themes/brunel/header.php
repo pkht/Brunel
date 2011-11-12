@@ -37,7 +37,7 @@ if( is_front_page() )
 <?php wp_head(); ?>
 </head>
 <body>
-
+<!-- New server -->
 <div id="page">
 
 
