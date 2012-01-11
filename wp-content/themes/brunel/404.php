@@ -15,9 +15,12 @@
 
 		<h2 class="center">Error 404 - Not Found</h2>
 
-	</div></td>
+	</div>
+    </td>
 
-	<?php get_right_side_contents(); ?>
+    <td valign="top" bgcolor="#990000">
+	<? include get_theme_root() . '/brunel/right_sidebar.php'; ?>
+    </td>
 	
 	
   </tr>
