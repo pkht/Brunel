@@ -1,4 +1,3 @@
-
 <div id="footer">
 
 
@@ -24,7 +23,7 @@
 		    $categories = get_categories( array('hide_empty' => 1 ) );
 		    foreach( $categories as $cat )
 		    {
-			    print '<li><a href="'.get_bloginfo('home').'/category/'.$cat->name.'">'.$cat->name.'</a>';
+			    print '<li><a href="'.get_bloginfo('home').'/category/'.$cat->slug.'">'.$cat->name.'</a>';
 			    print ' ('.$cat->count.')'.'</li>';
 		    }
 		?>
