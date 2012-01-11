@@ -13,7 +13,11 @@
     <td valign="top">
 	<div id="content" class="narrowcolumn">
 
-		<h2 class="center">Error 404 - Not Found</h2>
+		<h2>Error 404 - Not Found</h2>
+		
+		<p>Sorry, but we can't find the page you're looking for.</p>
+		
+		<p>Please <a href="/">return to base</a> or use the menu on the left to find you're way back to civilisation</p>
 
 	</div>
     </td>
