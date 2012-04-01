@@ -4,14 +4,13 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        31st March, 2012.<br /><br />
-        <b>Saint-Saens</b><br />
-        Symphony No. 3 (Organ Symphony)<br /><br />
-        <b>Elgar</b><br />
-        Enigma Variations<br /><br />
-        <b>Strauss</b><br />
-        Also Sprach Zarathustra<br />
-        <i>(2001: A Space Odyssey)</i><br />
+        16th June 2012, 7.30pm.<br /><br />
+        <b>Bart&oacute;k</b><br />
+        Concerto for Orchestra<br /><br />
+        <b>Tchaikovsky</b><br />
+        Piano Concerto No. 1<br /><br />
+        <b>M&aacute;rquez</b><br />
+        Danz&oacute;n No. 2<br />
     </p>
 
         <p><span>Box Office:</span><br /><br />
