@@ -4,13 +4,13 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        16th June 2012, 7.30pm.<br /><br />
-        <b>Bart&oacute;k</b><br />
-        Concerto for Orchestra<br /><br />
-        <b>Tchaikovsky</b><br />
-        Piano Concerto No. 1<br /><br />
-        <b>M&aacute;rquez</b><br />
-        Danz&oacute;n No. 2<br />
+        17th November 2012, 7.30pm.<br /><br />
+        <b>Rimsky-Korsakov</b><br />
+        Scheherazade<br /><br />
+        <b>Chausson</b><br />
+        Po&eacute;me for Violin and Orchestra<br /><br />
+        <b>Bernstein</b><br />
+        Symphonic Dances from West Side Story<br />
     </p>
 
         <p><span>Box Office:</span><br /><br />
