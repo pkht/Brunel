@@ -4,17 +4,13 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        17th November 2012, 7.30pm.<br /><br />
-        <b>Rimsky-Korsakov</b><br />
-        Scheherazade<br /><br />
-        <b>Chausson</b><br />
-        Po&eacute;me for Violin and Orchestra<br /><br />
-        <b>Bernstein</b><br />
-        Symphonic Dances from West Side Story<br />
+        24th March 2013, 7.30pm.<br /><br />
+        <b>Mahler</b><br />
+        Symphony No. 8<br />
     </p>
 
         <p><span>Box Office:</span><br /><br />
-        Providence Music<br />0117 927 6536</p>
+        Colston Hall<br />0117 922 3686</p>
     </div>
 
 </div>
