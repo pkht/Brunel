@@ -4,9 +4,13 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        24th March 2013, 7.30pm.<br /><br />
-        <b>Mahler</b><br />
-        Symphony No. 8<br />
+        15th June 2013, 7.30pm.<br /><br />
+        <b>Shostakovich</b><br />
+        Symphony No. 7<br /><br />
+        <b>Rodrigo</b><br />
+        Concierto de Aranjuez<br /><br />
+        <b>Dukas</b><br />
+        The Sorcerer's Apprentice<br />
     </p>
 
         <p><span>Box Office:</span><br /><br />
