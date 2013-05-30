@@ -13,8 +13,10 @@
         The Sorcerer's Apprentice<br />
     </p>
 
-        <p><span>Box Office:</span><br /><br />
-        Colston Hall<br />0117 922 3686</p>
+        <p>Box Office:</p>
+        <p>Providence Music<br />
+        (0117) 927 6536</p>
+
     </div>
 
 </div>
