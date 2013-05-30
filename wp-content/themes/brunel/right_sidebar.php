@@ -13,8 +13,8 @@
         The Sorcerer's Apprentice<br />
     </p>
 
-        <p>Box Office:</p>
-        <p>Providence Music<br />
+        <p><span>Box Office:</span><br /><br />
+        Providence Music<br />
         (0117) 927 6536</p>
 
     </div>
