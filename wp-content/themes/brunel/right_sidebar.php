@@ -15,8 +15,8 @@
     </p>
 
         <p><span>Box Office:</span><br /><br />
-        Providence Music<br />
-        (0117) 927 6536<br />
+        Opus 13<br />
+        0117 923 0164<br />
 	07951 741 179</p>
 
     </div>
