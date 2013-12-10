@@ -4,7 +4,7 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        24th March 2014, 7.30pm.<br /><br />
+        29th March 2014, 7.30pm.<br /><br />
         <b>Sibelius</b><br />
         Symphony No. 2<br /><br />
         <b>Shostakovich</b><br />
