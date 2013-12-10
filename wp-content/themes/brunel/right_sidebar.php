@@ -4,19 +4,18 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        16th November 2013, 7.30pm.<br /><br />
-        <b>Dvo&#345;&#225;k</b><br />
-        Symphony No. 9<br />
-	"From the New World<br /><br />
-        <b>Britten</b><br />
-        Les Illuminations<br /><br />
-        <b>Stravinsky</b><br />
-        The Firebird, 1919 Suite<br />
+        24th March 2014, 7.30pm.<br /><br />
+        <b>Sibelius</b><br />
+        Symphony No. 2<br /><br />
+        <b>Shostakovich</b><br />
+        Violin Concerto No. 1<br /><br />
+        <b>Arnold</b><br />
+        Peterloo Overture<br />
     </p>
 
         <p><span>Box Office:</span><br /><br />
         Opus 13<br />
-        0117 923 0164<br />
+        (0117) 923 0164<br />
 	07951 741 179</p>
 
     </div>
