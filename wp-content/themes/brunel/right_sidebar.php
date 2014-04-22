@@ -4,19 +4,21 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        29th March 2014, 7.30pm.<br /><br />
-        <b>Sibelius</b><br />
-        Symphony No. 2<br /><br />
-        <b>Shostakovich</b><br />
-        Violin Concerto No. 1<br /><br />
-        <b>Arnold</b><br />
-        Peterloo Overture<br />
+        14th March 2014, 7.30pm.<br /><br />
+        <b>Mussorgsky</b><br />
+        Pictures at an Exhibition<br /><br />
+        <b>Barber</b><br />
+        Symphony No. 1<br /><br />
+        <b>Tchaikovsky</b><br />
+        Romeo &amp; Juliet Overture<br />
     </p>
 
-        <p><span>Box Office:</span><br /><br />
+    <p>
+        <span>Box Office:</span><br /><br />
         Opus 13<br />
         (0117) 923 0164<br />
-	07951 741 179</p>
+        <a href="mailto:shop@opus13.co.uk">shop@opus13.co.uk</a>
+	</p>
 
     </div>
 
