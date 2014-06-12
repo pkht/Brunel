@@ -4,7 +4,7 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        14th March 2014, 7.30pm.<br /><br />
+        14th June 2014, 7.30pm.<br /><br />
         <b>Mussorgsky</b><br />
         Pictures at an Exhibition<br /><br />
         <b>Barber</b><br />
