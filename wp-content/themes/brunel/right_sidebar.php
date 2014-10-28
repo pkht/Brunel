@@ -4,13 +4,13 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        14th June 2014, 7.30pm.<br /><br />
-        <b>Mussorgsky</b><br />
-        Pictures at an Exhibition<br /><br />
-        <b>Barber</b><br />
-        Symphony No. 1<br /><br />
+        8th November 2014, 7.30pm.<br /><br />
         <b>Tchaikovsky</b><br />
-        Romeo &amp; Juliet Overture<br />
+        Symphony No. 6<br /><br />
+        <b>Ravel</b><br />
+        Pavanne<br /><br />
+        <b>Debussy</b><br />
+        La Mer<br />
     </p>
 
     <p>
