@@ -4,7 +4,7 @@
     <div id="important_contact">
     <p>
         <span>Next Concert:</span><br /><br />
-        Saturday, 14th December 2014 6.00pm.<br /><br />
+        Sunday, 14th December 2014 6.00pm.<br /><br />
         Bradbury Hall (Henleaze United Reform Church), Bristol<br /><br />
         Mulled wine, soft drinks, mince pies, a Christmassy sing along, with choral and orchestral music – full of christmas cheer and merriment.<br />
     </p>
