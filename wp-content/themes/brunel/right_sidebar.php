@@ -3,7 +3,7 @@
 
     <div id="important_contact">
     <p>
-        <span>Next Concert:</span><br /><br /><br />
+        <span>Next Concert:</span><br /><br />
         <b>Brunel 10th Anniversay Concert</b><br /><br />
         Sunday, 22nd March 2015 7.30pm.<br /><br />
         Victoria Rooms, Bristol<br /><br />
