@@ -3,18 +3,25 @@
 
     <div id="important_contact">
     <p>
-        <span>Next Concert:</span><br /><br />
-        Sunday, 14th December 2014 6.00pm.<br /><br />
-        Bradbury Hall (Henleaze United Reform Church), Bristol<br /><br />
-        Mulled wine, soft drinks, mince pies, a Christmassy sing along, with choral and orchestral music – full of christmas cheer and merriment.<br />
+        <span>Next Concert:</span><br /><br /><br />
+        <b>Brunel 10th Anniversay Concert</b><br /><br />
+        Sunday, 22nd March 2015 7.30pm.<br /><br />
+        Victoria Rooms, Bristol<br /><br />
+        <b>Rachmaninov</b><br />
+        Piano Concerto No. 2 <br />
+        featuring Cyrus Cheng<br /><br />
+        <b>Besterman</b><br />
+        Pictures of Bristol<br /><br />
+        <b>Mahler</b><br />
+        Symphony No. 1
     </p>
 
-<!--     <p> -->
-<!--         <span>Box Office:</span><br /><br /> -->
-<!--         Opus 13<br /> -->
-<!--         (0117) 923 0164<br /> -->
-<!--         <a href="mailto:shop@opus13.co.uk">shop@opus13.co.uk</a> -->
-<!-- 	</p> -->
+     <p>
+         <span>Box Office:</span><br /><br />
+         Opus 13<br />
+         (0117) 923 0164<br />
+         <a href="mailto:shop@opus13.co.uk">shop@opus13.co.uk</a>
+ 	</p>
 
     </div>
 
